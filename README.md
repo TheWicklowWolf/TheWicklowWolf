@@ -32,22 +32,22 @@
 ---
 
 <div align="center">
-<img src="https://github.com/TheWicklowWolf/BookBounty/blob/main/src/static/bookbounty.png" alt="image" width="400">
-</div>
-
-[**BookBounty**](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis.
-
-![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/bookbounty) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/BookBounty) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/BookBounty) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/bookbounty?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/bookbounty) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/bookbounty/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/BookBounty/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/BookBounty?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/BookBounty?style=flat)
-
----
-
-<div align="center">
 <img src="https://github.com/TheWicklowWolf/LidaTube/blob/main/src/static/lidatube.png" alt="image" width="400">
 </div>
 
 [**LidaTube**](https://github.com/TheWicklowWolf/LidaTube) - Find and download missing Lidarr albums via yt-dlp.
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/lidatube) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/LidaTube) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/LidaTube) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/lidatube?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/lidatube) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/lidatube/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/LidaTube/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/LidaTube?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/LidaTube?style=flat)
+
+---
+
+<div align="center">
+<img src="https://github.com/TheWicklowWolf/BookBounty/blob/main/src/static/bookbounty.png" alt="image" width="400">
+</div>
+
+[**BookBounty**](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis.
+
+![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/bookbounty) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/BookBounty) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/BookBounty) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/bookbounty?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/bookbounty) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/bookbounty/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/BookBounty/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/BookBounty?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/BookBounty?style=flat)
 
 ---
 

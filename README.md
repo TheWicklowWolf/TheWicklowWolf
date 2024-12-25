@@ -148,8 +148,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- LidaTube - [QUESTION] possible to change to audio quality? (https://github.com/TheWicklowWolf/LidaTube/issues/45)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 05:11:06 on 25-Dec-2024
+#### Last Updated: 06:15:39 on 25-Dec-2024

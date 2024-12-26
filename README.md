@@ -148,8 +148,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- LidaTube - Album Incomplete (issue?) (https://github.com/TheWicklowWolf/LidaTube/issues/46)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 15:10:27 on 26-Dec-2024
+#### Last Updated: 16:12:52 on 26-Dec-2024

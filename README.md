@@ -150,6 +150,6 @@
 # Summary  
 ### Total Open Issues: 1  
 - LidaTube - Album Incomplete (issue?) (https://github.com/TheWicklowWolf/LidaTube/issues/46)  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 04:13:26 on 30-Dec-2024
+### Total Open PRs: 1  
+- SpotTube - Add monitor and sync feature of spotify playlist (https://github.com/TheWicklowWolf/SpotTube/pull/11)  
+#### Last Updated: 05:11:12 on 30-Dec-2024

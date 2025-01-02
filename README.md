@@ -148,9 +148,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 2  
-- BookBounty - Search both fiction and non-fiction? (https://github.com/TheWicklowWolf/BookBounty/issues/31)
-- LidaTube - Album Incomplete (issue?) (https://github.com/TheWicklowWolf/LidaTube/issues/46)  
-### Total Open PRs: 1  
-- SpotTube - Add monitor and sync feature of spotify playlist (https://github.com/TheWicklowWolf/SpotTube/pull/11)  
-#### Last Updated: 10:11:15 on 02-Jan-2025
+### Total Open Issues: 0  
+No open issues found.  
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 10:29:43 on 02-Jan-2025

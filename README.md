@@ -72,22 +72,22 @@
 ---
 
 <div align="center">
-<img src="https://github.com/TheWicklowWolf/RadaRec/blob/main/src/static/radarec.png" alt="image" width="400">
-</div>
-  
-[**RadaRec**](https://github.com/TheWicklowWolf/RadaRec) - Movie discovery tool that provides recommendations based on selected Radarr movies, using TMDB.
-
-![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/radarec) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/RadaRec) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/RadaRec) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/radarec?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/radarec) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/radarec/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/RadaRec/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/RadaRec?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/RadaRec?style=flat)
-
----
-
-<div align="center">
 <img src="https://github.com/TheWicklowWolf/eBookBuddy/blob/main/src/static/ebookbuddy.png" alt="image" width="400">
 </div>
 
 [**eBookBuddy**](https://github.com/TheWicklowWolf/eBookBuddy) - Book discovery tool that provides recommendations based on selected Readarr books, using Goodreads.
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/ebookbuddy) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/eBookBuddy) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/eBookBuddy) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/ebookbuddy?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/eBookBuddy) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/ebookbuddy/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/eBookBuddy/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/eBookBuddy?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/eBookBuddy?style=flat)
+
+---
+
+<div align="center">
+<img src="https://github.com/TheWicklowWolf/RadaRec/blob/main/src/static/radarec.png" alt="image" width="400">
+</div>
+  
+[**RadaRec**](https://github.com/TheWicklowWolf/RadaRec) - Movie discovery tool that provides recommendations based on selected Radarr movies, using TMDB.
+
+![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/radarec) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/RadaRec) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/RadaRec) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/radarec?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/radarec) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/radarec/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/RadaRec/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/RadaRec?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/RadaRec?style=flat)
 
 ---
 

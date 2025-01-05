@@ -148,8 +148,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- LidaTube - Some searches failing (https://github.com/TheWicklowWolf/LidaTube/issues/47)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 22:09:22 on 05-Jan-2025
+#### Last Updated: 23:10:06 on 05-Jan-2025

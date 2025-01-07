@@ -148,8 +148,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
-- LidaTube - Lidatube not saving files (https://github.com/TheWicklowWolf/LidaTube/issues/48)  
+### Total Open Issues: 0  
+No open issues found.  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 16:28:18 on 07-Jan-2025
+#### Last Updated: 17:10:09 on 07-Jan-2025

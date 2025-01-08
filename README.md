@@ -148,8 +148,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- Lidify - iOS Safari LastFM URL (https://github.com/TheWicklowWolf/Lidify/issues/26)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 19:08:37 on 08-Jan-2025
+#### Last Updated: 20:11:50 on 08-Jan-2025

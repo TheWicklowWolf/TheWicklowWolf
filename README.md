@@ -153,4 +153,4 @@
 - Lidify - iOS Safari LastFM URL (https://github.com/TheWicklowWolf/Lidify/issues/26)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 09:11:43 on 09-Jan-2025
+#### Last Updated: 10:11:55 on 09-Jan-2025

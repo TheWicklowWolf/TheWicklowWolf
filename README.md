@@ -148,9 +148,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 2  
-- Lidify - Feature Request - filters/sort orders? (https://github.com/TheWicklowWolf/Lidify/issues/27)
-- Lidify - iOS Safari LastFM URL (https://github.com/TheWicklowWolf/Lidify/issues/26)  
+### Total Open Issues: 0  
+No open issues found.  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 10:11:55 on 09-Jan-2025
+#### Last Updated: 11:08:55 on 09-Jan-2025

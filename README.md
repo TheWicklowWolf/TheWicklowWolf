@@ -148,8 +148,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
-- BookBounty - libgen.is is down. What about libgen.li? (https://github.com/TheWicklowWolf/BookBounty/issues/32)  
+### Total Open Issues: 0  
+No open issues found.  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 16:14:07 on 13-Jan-2025
+#### Last Updated: 17:10:05 on 13-Jan-2025

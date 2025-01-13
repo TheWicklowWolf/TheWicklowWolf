@@ -152,4 +152,4 @@
 - BookBounty - libgen.is is down. What about libgen.li? (https://github.com/TheWicklowWolf/BookBounty/issues/32)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 08:15:46 on 13-Jan-2025
+#### Last Updated: 09:12:27 on 13-Jan-2025

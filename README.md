@@ -148,8 +148,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- BookBounty - Error Downloading library.gift (https://github.com/TheWicklowWolf/BookBounty/issues/33)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 21:10:01 on 14-Jan-2025
+#### Last Updated: 22:10:05 on 14-Jan-2025

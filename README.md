@@ -153,4 +153,4 @@
 - ChannelTube - Feature Request: Download Subtitles Option (https://github.com/TheWicklowWolf/ChannelTube/issues/17)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 03:14:04 on 22-Jan-2025
+#### Last Updated: 04:13:22 on 22-Jan-2025

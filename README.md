@@ -149,8 +149,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- ChannelTube - Feature Request: Download Subtitles Option (https://github.com/TheWicklowWolf/ChannelTube/issues/17)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 00:51:55 on 22-Jan-2025
+#### Last Updated: 02:13:19 on 22-Jan-2025

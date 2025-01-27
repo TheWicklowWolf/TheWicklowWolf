@@ -149,8 +149,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
-- Lidify - 500 Error (Again) (https://github.com/TheWicklowWolf/Lidify/issues/29)  
-### Total Open PRs: 1  
-- ChannelTube - allow files to be kept indefinitly, minor tweaks to Dockerfile (https://github.com/TheWicklowWolf/ChannelTube/pull/18)  
-#### Last Updated: 09:12:20 on 27-Jan-2025
+### Total Open Issues: 0  
+No open issues found.  
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 10:12:04 on 27-Jan-2025

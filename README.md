@@ -149,8 +149,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- Lidify - Caching | Feature Request (https://github.com/TheWicklowWolf/Lidify/issues/30)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 17:09:15 on 28-Jan-2025
+#### Last Updated: 18:14:25 on 28-Jan-2025

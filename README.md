@@ -151,6 +151,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 18:13:09 on 02-Feb-2025
+### Total Open PRs: 1  
+- Lidify - Updated readme to reflect spotify API changes (https://github.com/TheWicklowWolf/Lidify/pull/31)  
+#### Last Updated: 19:08:30 on 02-Feb-2025

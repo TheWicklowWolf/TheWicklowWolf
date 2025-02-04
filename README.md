@@ -151,7 +151,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 2  
-- LidaTube - Update _general.py (https://github.com/TheWicklowWolf/LidaTube/pull/50)
-- Lidify - Updated readme to reflect spotify API changes (https://github.com/TheWicklowWolf/Lidify/pull/31)  
-#### Last Updated: 09:11:27 on 04-Feb-2025
+### Total Open PRs: 1  
+- LidaTube - Update _general.py (https://github.com/TheWicklowWolf/LidaTube/pull/50)  
+#### Last Updated: 10:11:46 on 04-Feb-2025

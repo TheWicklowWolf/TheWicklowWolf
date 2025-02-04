@@ -151,6 +151,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 1  
-- LidaTube - Update _general.py (https://github.com/TheWicklowWolf/LidaTube/pull/50)  
-#### Last Updated: 16:13:06 on 04-Feb-2025
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 17:09:35 on 04-Feb-2025

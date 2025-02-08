@@ -149,8 +149,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- LidaTube - Could really use an install guide or help (https://github.com/TheWicklowWolf/LidaTube/issues/51)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 19:09:13 on 08-Feb-2025
+#### Last Updated: 20:10:29 on 08-Feb-2025

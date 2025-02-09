@@ -149,8 +149,9 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
+### Total Open Issues: 2  
+- LidaTube - OSError: [Errno 24] No file descriptors available (https://github.com/TheWicklowWolf/LidaTube/issues/52)
 - LidaTube - Could really use an install guide or help (https://github.com/TheWicklowWolf/LidaTube/issues/51)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 09:09:40 on 09-Feb-2025
+#### Last Updated: 10:11:10 on 09-Feb-2025

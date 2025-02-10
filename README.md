@@ -149,10 +149,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 3  
-- LidaTube - the url for searching missing content is not correct and it is resulting in a failure (https://github.com/TheWicklowWolf/LidaTube/issues/53)
-- LidaTube - OSError: [Errno 24] No file descriptors available (https://github.com/TheWicklowWolf/LidaTube/issues/52)
-- LidaTube - Could really use an install guide or help (https://github.com/TheWicklowWolf/LidaTube/issues/51)  
+### Total Open Issues: 0  
+No open issues found.  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 10:12:10 on 10-Feb-2025
+#### Last Updated: 11:09:20 on 10-Feb-2025

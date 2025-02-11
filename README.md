@@ -153,4 +153,4 @@
 No open issues found.  
 ### Total Open PRs: 1  
 - BookBounty - Changed language logic to use book MetadataProfile from readarr, and … (https://github.com/TheWicklowWolf/BookBounty/pull/34)  
-#### Last Updated: 08:14:22 on 11-Feb-2025
+#### Last Updated: 09:11:40 on 11-Feb-2025

@@ -151,6 +151,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 15:11:56 on 12-Feb-2025
+### Total Open PRs: 1  
+- BookBounty - Fixed bug I did for non-fiction language check (https://github.com/TheWicklowWolf/BookBounty/pull/35)  
+#### Last Updated: 16:13:37 on 12-Feb-2025

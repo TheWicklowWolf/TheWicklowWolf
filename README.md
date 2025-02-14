@@ -149,8 +149,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
-- Lidify - Bug: When selecting a large amount of artists it sometimes errors on a "artist you supplied could not be found" (https://github.com/TheWicklowWolf/Lidify/issues/33)  
+### Total Open Issues: 0  
+No open issues found.  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 09:11:25 on 14-Feb-2025
+#### Last Updated: 10:11:24 on 14-Feb-2025

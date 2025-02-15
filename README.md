@@ -153,4 +153,4 @@
 - Lidify - [Feature Request] Only display artists within a certain scrobble/plays range/limit (https://github.com/TheWicklowWolf/Lidify/issues/34)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 22:09:18 on 15-Feb-2025
+#### Last Updated: 23:09:27 on 15-Feb-2025

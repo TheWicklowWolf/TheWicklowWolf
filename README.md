@@ -149,8 +149,9 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
+### Total Open Issues: 2  
+- BookBounty - libgen_address supported for other addresses? (https://github.com/TheWicklowWolf/BookBounty/issues/36)
 - Lidify - [Feature Request] Only display artists within a certain scrobble/plays range/limit (https://github.com/TheWicklowWolf/Lidify/issues/34)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 18:13:12 on 16-Feb-2025
+#### Last Updated: 19:08:57 on 16-Feb-2025

@@ -149,8 +149,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- Huntorr - Test (https://github.com/TheWicklowWolf/Huntorr/issues/4)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 13:19:15 on 17-Feb-2025
+#### Last Updated: 14:11:03 on 17-Feb-2025

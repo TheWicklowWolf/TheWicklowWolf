@@ -149,8 +149,11 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
-- Huntorr - Test (https://github.com/TheWicklowWolf/Huntorr/issues/4)  
+### Total Open Issues: 4  
+- Huntorr - Delete (https://github.com/TheWicklowWolf/Huntorr/issues/9)
+- Huntorr - Test (https://github.com/TheWicklowWolf/Huntorr/issues/8)
+- Huntorr - Bug - Test (https://github.com/TheWicklowWolf/Huntorr/issues/7)
+- Huntorr - Test2 (https://github.com/TheWicklowWolf/Huntorr/issues/6)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 14:11:03 on 17-Feb-2025
+#### Last Updated: 15:11:46 on 17-Feb-2025

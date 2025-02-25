@@ -151,6 +151,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 09:11:50 on 25-Feb-2025
+### Total Open PRs: 1  
+- PlaylistDir - Option to search subdirectors for music files (https://github.com/TheWicklowWolf/PlaylistDir/pull/6)  
+#### Last Updated: 10:11:59 on 25-Feb-2025

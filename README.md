@@ -151,6 +151,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 1  
-- PlaylistDir - Encoding m3u path for Plex (https://github.com/TheWicklowWolf/PlaylistDir/pull/7)  
-#### Last Updated: 09:12:18 on 26-Feb-2025
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 10:12:17 on 26-Feb-2025

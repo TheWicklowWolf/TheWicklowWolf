@@ -151,6 +151,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 1  
-- RadaRec - Add TMDB Button (https://github.com/TheWicklowWolf/RadaRec/pull/5)  
-#### Last Updated: 09:13:25 on 03-Mar-2025
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 10:12:38 on 03-Mar-2025

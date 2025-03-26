@@ -149,8 +149,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- SpotTube - [Bug] Cannot run through a VPN (https://github.com/TheWicklowWolf/SpotTube/issues/18)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 11:10:02 on 26-Mar-2025
+#### Last Updated: 12:21:53 on 26-Mar-2025

@@ -149,8 +149,9 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
+### Total Open Issues: 2  
+- LidaTube - all downloads failing (https://github.com/TheWicklowWolf/LidaTube/issues/57)
 - SpotTube - [Bug] Cannot run through a VPN (https://github.com/TheWicklowWolf/SpotTube/issues/18)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 09:13:13 on 27-Mar-2025
+#### Last Updated: 10:12:34 on 27-Mar-2025

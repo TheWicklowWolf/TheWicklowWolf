@@ -34,21 +34,22 @@
 ---
 
 <div align="center">
-<img src="https://github.com/TheWicklowWolf/ChannelTube/blob/main/src/static/full_logo.png" alt="image" width="400">
-</div>
-
-[**ChannelTube**](https://github.com/TheWicklowWolf/ChannelTube) - Download video or audio from YouTube channels on a schedule via yt-dlp.
-
-![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/channeltube) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/ChannelTube) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/ChannelTube) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/channeltube?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/channeltube) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/channeltube/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/ChannelTube/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/ChannelTube?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/ChannelTube?style=flat)
-
----
-<div align="center">
 <img src="https://github.com/TheWicklowWolf/BookBounty/blob/main/src/static/bookbounty.png" alt="image" width="400">
 </div>
 
 [**BookBounty**](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis.
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/bookbounty) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/BookBounty) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/BookBounty) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/bookbounty?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/bookbounty) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/bookbounty/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/BookBounty/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/BookBounty?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/BookBounty?style=flat)
+
+---
+
+<div align="center">
+<img src="https://github.com/TheWicklowWolf/ChannelTube/blob/main/src/static/full_logo.png" alt="image" width="400">
+</div>
+
+[**ChannelTube**](https://github.com/TheWicklowWolf/ChannelTube) - Download video or audio from YouTube channels on a schedule via yt-dlp.
+
+![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/channeltube) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/ChannelTube) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/ChannelTube) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/channeltube?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/channeltube) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/channeltube/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/ChannelTube/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/ChannelTube?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/ChannelTube?style=flat)
 
 ---
 
@@ -73,16 +74,6 @@
 ---
 
 <div align="center">
-<img src="https://github.com/TheWicklowWolf/RadaRec/blob/main/src/static/radarec.png" alt="image" width="400">
-</div>
-  
-[**RadaRec**](https://github.com/TheWicklowWolf/RadaRec) - Movie discovery tool that provides recommendations based on selected Radarr movies, using TMDB.
-
-![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/radarec) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/RadaRec) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/RadaRec) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/radarec?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/radarec) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/radarec/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/RadaRec/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/RadaRec?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/RadaRec?style=flat)
-
----
-
-<div align="center">
 <img src="https://github.com/TheWicklowWolf/eBookBuddy/blob/main/src/static/ebookbuddy.png" alt="image" width="400">
 </div>
 
@@ -101,6 +92,17 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/syncify) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/Syncify) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/Syncify) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/syncify?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/syncify) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/syncify/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/Syncify/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/Syncify?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/Syncify?style=flat)
 
 ---
+
+<div align="center">
+<img src="https://github.com/TheWicklowWolf/RadaRec/blob/main/src/static/radarec.png" alt="image" width="400">
+</div>
+  
+[**RadaRec**](https://github.com/TheWicklowWolf/RadaRec) - Movie discovery tool that provides recommendations based on selected Radarr movies, using TMDB.
+
+![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/radarec) ![Issues](https://img.shields.io/github/issues/TheWicklowWolf/RadaRec) ![PRs](https://img.shields.io/github/issues-pr/TheWicklowWolf/RadaRec) ![Latest DockerHub Version](https://img.shields.io/docker/v/thewicklowwolf/radarec?sort=semver) ![Release Date](https://img.shields.io/github/release-date/thewicklowwolf/radarec) ![Image Size](https://img.shields.io/docker/image-size/thewicklowwolf/radarec/latest) ![Workflow Status](https://img.shields.io/github/actions/workflow/status/TheWicklowWolf/RadaRec/main.yml) ![Forks](https://img.shields.io/github/forks/TheWicklowWolf/RadaRec?style=flat) ![GitHub stars](https://img.shields.io/github/stars/TheWicklowWolf/RadaRec?style=flat)
+
+---
+
 <div align="center">
 <img src="https://github.com/TheWicklowWolf/Huntorr/blob/main/src/static/huntorr.png" alt="image" width="400">
 </div>

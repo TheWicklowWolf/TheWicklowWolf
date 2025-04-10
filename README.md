@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 1  
-- LidaTube - Fix configuration directory and downloads directory (https://github.com/TheWicklowWolf/LidaTube/pull/60)  
-#### Last Updated: 08:15:57 on 10-Apr-2025
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 09:12:50 on 10-Apr-2025

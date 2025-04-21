@@ -151,8 +151,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
-- LidaTube - Error, can't download various songs based on filename (https://github.com/TheWicklowWolf/LidaTube/issues/62)  
+### Total Open Issues: 0  
+No open issues found.  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 09:13:02 on 21-Apr-2025
+#### Last Updated: 10:12:54 on 21-Apr-2025

@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 1  
-- BookBounty - Added one click deploy for BookBounty (https://github.com/TheWicklowWolf/BookBounty/pull/43)  
-#### Last Updated: 14:12:34 on 13-May-2025
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 15:12:36 on 13-May-2025

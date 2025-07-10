@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 1  
 - ChannelTube - UI frozen & no videos downloading - OSError: [Errno 24] No file descriptors available (https://github.com/TheWicklowWolf/ChannelTube/issues/25)  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 12:25:23 on 10-Jul-2025
+### Total Open PRs: 1  
+- BookBounty - Added libgen.li and removed search_type setting (https://github.com/TheWicklowWolf/BookBounty/pull/45)  
+#### Last Updated: 13:29:00 on 10-Jul-2025

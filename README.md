@@ -151,8 +151,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- ChannelTube - UI frozen & no videos downloading - OSError: [Errno 24] No file descriptors available (https://github.com/TheWicklowWolf/ChannelTube/issues/25)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 08:17:47 on 10-Jul-2025
+#### Last Updated: 09:15:46 on 10-Jul-2025

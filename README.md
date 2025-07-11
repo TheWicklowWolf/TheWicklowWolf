@@ -155,4 +155,4 @@
 - ChannelTube - UI frozen & no videos downloading - OSError: [Errno 24] No file descriptors available (https://github.com/TheWicklowWolf/ChannelTube/issues/25)  
 ### Total Open PRs: 1  
 - BookBounty - Added libgen.li and removed search_type setting (https://github.com/TheWicklowWolf/BookBounty/pull/45)  
-#### Last Updated: 09:14:24 on 11-Jul-2025
+#### Last Updated: 10:13:42 on 11-Jul-2025

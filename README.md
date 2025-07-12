@@ -153,6 +153,7 @@
 # Summary  
 ### Total Open Issues: 1  
 - ChannelTube - UI frozen & no videos downloading - OSError: [Errno 24] No file descriptors available (https://github.com/TheWicklowWolf/ChannelTube/issues/25)  
-### Total Open PRs: 1  
-- BookBounty - Added libgen.li and removed search_type setting (https://github.com/TheWicklowWolf/BookBounty/pull/45)  
-#### Last Updated: 23:12:22 on 11-Jul-2025
+### Total Open PRs: 2  
+- BookBounty - Added libgen.li and removed search_type setting (https://github.com/TheWicklowWolf/BookBounty/pull/45)
+- LidaTube - feat: adding support for Opus, Vorbis, and AAC/M4A codecs (https://github.com/TheWicklowWolf/LidaTube/pull/65)  
+#### Last Updated: 01:05:15 on 12-Jul-2025

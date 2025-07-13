@@ -156,4 +156,4 @@
 ### Total Open PRs: 2  
 - BookBounty - Added libgen.li and removed search_type setting (https://github.com/TheWicklowWolf/BookBounty/pull/45)
 - LidaTube - feat: adding support for Opus, Vorbis, and AAC/M4A codecs (https://github.com/TheWicklowWolf/LidaTube/pull/65)  
-#### Last Updated: 06:18:13 on 13-Jul-2025
+#### Last Updated: 07:13:08 on 13-Jul-2025

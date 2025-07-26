@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 09:12:43 on 26-Jul-2025
+### Total Open PRs: 1  
+- ChannelTube - Add per-channel minimum video duration parameter (https://github.com/TheWicklowWolf/ChannelTube/pull/28)  
+#### Last Updated: 10:12:37 on 26-Jul-2025

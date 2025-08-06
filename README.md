@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 01:06:49 on 06-Aug-2025
+### Total Open PRs: 1  
+- BookBounty - Added annas-archive.org as an option for one of the search domains (https://github.com/TheWicklowWolf/BookBounty/pull/47)  
+#### Last Updated: 03:38:20 on 06-Aug-2025

@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 1  
-- BookBounty - Add corrections for Libgen format 2 (https://github.com/TheWicklowWolf/BookBounty/pull/48)  
-#### Last Updated: 05:21:44 on 11-Aug-2025
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 06:21:20 on 11-Aug-2025

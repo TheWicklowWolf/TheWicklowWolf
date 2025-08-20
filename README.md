@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 17:10:59 on 20-Aug-2025
+### Total Open PRs: 1  
+- BookBounty - Add env variable for Libgen URLs (https://github.com/TheWicklowWolf/BookBounty/pull/50)  
+#### Last Updated: 18:17:45 on 20-Aug-2025

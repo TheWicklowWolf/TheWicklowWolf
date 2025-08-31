@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 16:12:40 on 31-Aug-2025
+### Total Open PRs: 1  
+- Syncify - Add explicit filter (https://github.com/TheWicklowWolf/Syncify/pull/10)  
+#### Last Updated: 17:09:01 on 31-Aug-2025

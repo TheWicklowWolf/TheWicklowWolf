@@ -153,8 +153,9 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 3  
+### Total Open PRs: 4  
 - eBookBuddy - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/eBookBuddy/pull/13)
 - Huntorr - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/Huntorr/pull/17)
-- Lidify - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/Lidify/pull/37)  
-#### Last Updated: 07:13:17 on 13-Oct-2025
+- Lidify - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/Lidify/pull/37)
+- pyDuckDNS - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/pyDuckDNS/pull/2)  
+#### Last Updated: 08:18:10 on 13-Oct-2025

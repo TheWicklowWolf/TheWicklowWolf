@@ -157,4 +157,4 @@ No open issues found.
 - eBookBuddy - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/eBookBuddy/pull/13)
 - Huntorr - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/Huntorr/pull/17)
 - Lidify - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/Lidify/pull/37)  
-#### Last Updated: 06:19:58 on 13-Oct-2025
+#### Last Updated: 07:13:17 on 13-Oct-2025

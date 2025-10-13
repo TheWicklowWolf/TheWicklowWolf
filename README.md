@@ -153,11 +153,13 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 6  
+### Total Open PRs: 8  
 - eBookBuddy - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/eBookBuddy/pull/13)
 - Huntorr - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/Huntorr/pull/17)
 - Lidify - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/Lidify/pull/37)
 - PlaylistDir - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/PlaylistDir/pull/8)
 - pyDuckDNS - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/pyDuckDNS/pull/2)
-- pyNameCheap - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/pyNameCheap/pull/2)  
-#### Last Updated: 21:10:43 on 13-Oct-2025
+- pyNameCheap - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/pyNameCheap/pull/2)
+- RadaRec - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/RadaRec/pull/8)
+- SonaShow - Bump python from 3.12-alpine to 3.14-alpine (https://github.com/TheWicklowWolf/SonaShow/pull/6)  
+#### Last Updated: 22:10:49 on 13-Oct-2025

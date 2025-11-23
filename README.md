@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 1  
-- ChannelTube - Allow the option `--write-info-json` to be added which includes the v… (https://github.com/TheWicklowWolf/ChannelTube/pull/33)  
-#### Last Updated: 22:11:14 on 23-Nov-2025
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 23:11:24 on 23-Nov-2025

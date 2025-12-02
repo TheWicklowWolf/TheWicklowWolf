@@ -151,8 +151,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- LidaTube - [Bug] Application running out of file descriptors (https://github.com/TheWicklowWolf/LidaTube/issues/69)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 15:14:48 on 02-Dec-2025
+#### Last Updated: 16:17:58 on 02-Dec-2025

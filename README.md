@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 14:16:30 on 11-Dec-2025
+### Total Open PRs: 1  
+- BookBounty - Update to Anna's Archive Handling (https://github.com/TheWicklowWolf/BookBounty/pull/52)  
+#### Last Updated: 15:15:20 on 11-Dec-2025

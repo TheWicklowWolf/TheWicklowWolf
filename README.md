@@ -151,8 +151,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
-- ChannelTube - Bug fix recommendation, cookies need to be applied to get_list_of_videos_from_youtube() (https://github.com/TheWicklowWolf/ChannelTube/issues/36)  
+### Total Open Issues: 0  
+No open issues found.  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 18:32:43 on 29-Jan-2026
+#### Last Updated: 19:24:18 on 29-Jan-2026

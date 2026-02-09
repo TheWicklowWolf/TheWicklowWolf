@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 1  
-- Syncify - Add support for resuming after app crash (https://github.com/TheWicklowWolf/Syncify/pull/13)  
-#### Last Updated: 15:46:02 on 09-Feb-2026
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 17:44:19 on 09-Feb-2026

@@ -153,6 +153,9 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 14:00:07 on 16-Feb-2026
+### Total Open PRs: 4  
+- eBookBuddy - Update gevent requirement from <25.0.0 to <26.0.0 (https://github.com/TheWicklowWolf/eBookBuddy/pull/14)
+- Lidify - Update gevent requirement from <25.0.0 to <26.0.0 (https://github.com/TheWicklowWolf/Lidify/pull/40)
+- RadaRec - Update gevent requirement from <25.0.0 to <26.0.0 (https://github.com/TheWicklowWolf/RadaRec/pull/9)
+- SonaShow - Update gevent requirement from <25.0.0 to <26.0.0 (https://github.com/TheWicklowWolf/SonaShow/pull/7)  
+#### Last Updated: 15:33:49 on 16-Feb-2026

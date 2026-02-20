@@ -153,7 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 2  
-- BookBounty - Bump flask from 3.1.2 to 3.1.3 (https://github.com/TheWicklowWolf/BookBounty/pull/53)
-- eBookBuddy - Bump flask from 3.1.2 to 3.1.3 in the pip group across 1 directory (https://github.com/TheWicklowWolf/eBookBuddy/pull/15)  
-#### Last Updated: 22:16:31 on 20-Feb-2026
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 23:20:38 on 20-Feb-2026

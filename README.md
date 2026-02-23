@@ -153,6 +153,18 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 12:42:36 on 23-Feb-2026
+### Total Open PRs: 13  
+- eBookBuddy - Bump flask-socketio from 5.6.0 to 5.6.1 (https://github.com/TheWicklowWolf/eBookBuddy/pull/18)
+- eBookBuddy - Bump selenium from 4.40.0 to 4.41.0 (https://github.com/TheWicklowWolf/eBookBuddy/pull/17)
+- eBookBuddy - Bump flask from 3.1.2 to 3.1.3 (https://github.com/TheWicklowWolf/eBookBuddy/pull/16)
+- Huntorr - Bump beautifulsoup4 from 4.13.3 to 4.14.3 (https://github.com/TheWicklowWolf/Huntorr/pull/23)
+- Huntorr - Bump qbittorrent-api from 2024.12.71 to 2025.11.1 (https://github.com/TheWicklowWolf/Huntorr/pull/22)
+- Huntorr - Bump pandas from 2.2.3 to 3.0.1 (https://github.com/TheWicklowWolf/Huntorr/pull/21)
+- Huntorr - Bump requests from 2.32.3 to 2.32.5 (https://github.com/TheWicklowWolf/Huntorr/pull/20)
+- Huntorr - Bump lxml from 5.3.1 to 6.0.2 (https://github.com/TheWicklowWolf/Huntorr/pull/19)
+- Lidify - Bump flask-socketio from 5.6.0 to 5.6.1 (https://github.com/TheWicklowWolf/Lidify/pull/42)
+- PlaylistDir - Bump requests from 2.32.3 to 2.32.5 (https://github.com/TheWicklowWolf/PlaylistDir/pull/13)
+- PlaylistDir - Bump gunicorn from 23.0.0 to 25.1.0 (https://github.com/TheWicklowWolf/PlaylistDir/pull/12)
+- RadaRec - Bump flask-socketio from 5.6.0 to 5.6.1 (https://github.com/TheWicklowWolf/RadaRec/pull/11)
+- SonaShow - Bump flask-socketio from 5.6.0 to 5.6.1 (https://github.com/TheWicklowWolf/SonaShow/pull/9)  
+#### Last Updated: 14:02:24 on 23-Feb-2026

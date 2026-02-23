@@ -153,13 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 8  
-- Huntorr - Bump the pip group across 1 directory with 2 updates (https://github.com/TheWicklowWolf/Huntorr/pull/24)
-- Huntorr - Bump beautifulsoup4 from 4.13.3 to 4.14.3 (https://github.com/TheWicklowWolf/Huntorr/pull/23)
-- Huntorr - Bump qbittorrent-api from 2024.12.71 to 2025.11.1 (https://github.com/TheWicklowWolf/Huntorr/pull/22)
-- Huntorr - Bump pandas from 2.2.3 to 3.0.1 (https://github.com/TheWicklowWolf/Huntorr/pull/21)
-- Huntorr - Bump requests from 2.32.3 to 2.32.5 (https://github.com/TheWicklowWolf/Huntorr/pull/20)
-- Huntorr - Bump lxml from 5.3.1 to 6.0.2 (https://github.com/TheWicklowWolf/Huntorr/pull/19)
-- PlaylistDir - Bump requests from 2.32.3 to 2.32.5 (https://github.com/TheWicklowWolf/PlaylistDir/pull/13)
-- PlaylistDir - Bump gunicorn from 23.0.0 to 25.1.0 (https://github.com/TheWicklowWolf/PlaylistDir/pull/12)  
-#### Last Updated: 20:35:26 on 23-Feb-2026
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 21:36:16 on 23-Feb-2026

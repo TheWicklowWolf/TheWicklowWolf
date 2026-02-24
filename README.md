@@ -157,4 +157,4 @@ No open issues found.
 - Huntorr - Bump plexapi from 4.16.1 to 4.18.0 (https://github.com/TheWicklowWolf/Huntorr/pull/27)
 - Huntorr - Bump gunicorn from 23.0.0 to 25.1.0 (https://github.com/TheWicklowWolf/Huntorr/pull/26)
 - Huntorr - Bump flask from 3.1.0 to 3.1.3 (https://github.com/TheWicklowWolf/Huntorr/pull/25)  
-#### Last Updated: 18:50:30 on 24-Feb-2026
+#### Last Updated: 19:44:36 on 24-Feb-2026

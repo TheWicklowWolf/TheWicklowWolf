@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 1  
-- Lidify - Bump spotipy from 2.25.2 to 2.26.0 (https://github.com/TheWicklowWolf/Lidify/pull/43)  
-#### Last Updated: 16:33:08 on 04-Mar-2026
+### Total Open PRs: 0  
+No open PRs found.  
+#### Last Updated: 17:31:51 on 04-Mar-2026

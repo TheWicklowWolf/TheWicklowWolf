@@ -153,6 +153,9 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 12:48:07 on 25-Mar-2026
+### Total Open PRs: 4  
+- eBookBuddy - Bump gunicorn from 25.1.0 to 25.2.0 (https://github.com/TheWicklowWolf/eBookBuddy/pull/19)
+- Lidify - Bump gunicorn from 25.1.0 to 25.2.0 (https://github.com/TheWicklowWolf/Lidify/pull/44)
+- RadaRec - Bump gunicorn from 25.1.0 to 25.2.0 (https://github.com/TheWicklowWolf/RadaRec/pull/12)
+- SonaShow - Bump gunicorn from 25.1.0 to 25.2.0 (https://github.com/TheWicklowWolf/SonaShow/pull/10)  
+#### Last Updated: 14:13:34 on 25-Mar-2026

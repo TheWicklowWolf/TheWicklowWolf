@@ -153,9 +153,13 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 4  
+### Total Open PRs: 8  
+- eBookBuddy - Bump requests from 2.32.5 to 2.33.0 (https://github.com/TheWicklowWolf/eBookBuddy/pull/20)
 - eBookBuddy - Bump gunicorn from 25.1.0 to 25.2.0 (https://github.com/TheWicklowWolf/eBookBuddy/pull/19)
+- Lidify - Bump requests from 2.32.5 to 2.33.0 (https://github.com/TheWicklowWolf/Lidify/pull/45)
 - Lidify - Bump gunicorn from 25.1.0 to 25.2.0 (https://github.com/TheWicklowWolf/Lidify/pull/44)
+- RadaRec - Bump requests from 2.32.5 to 2.33.0 (https://github.com/TheWicklowWolf/RadaRec/pull/13)
 - RadaRec - Bump gunicorn from 25.1.0 to 25.2.0 (https://github.com/TheWicklowWolf/RadaRec/pull/12)
+- SonaShow - Bump requests from 2.32.5 to 2.33.0 (https://github.com/TheWicklowWolf/SonaShow/pull/11)
 - SonaShow - Bump gunicorn from 25.1.0 to 25.2.0 (https://github.com/TheWicklowWolf/SonaShow/pull/10)  
-#### Last Updated: 12:54:42 on 26-Mar-2026
+#### Last Updated: 14:25:56 on 26-Mar-2026

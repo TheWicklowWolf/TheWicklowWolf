@@ -155,4 +155,4 @@
 - LidaTube - [Bug] Slug in `lidarr_address` field is ignored when requesting data (https://github.com/TheWicklowWolf/LidaTube/issues/73)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 11:54:23 on 05-May-2026
+#### Last Updated: 16:18:14 on 05-May-2026

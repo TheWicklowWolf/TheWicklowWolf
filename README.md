@@ -151,8 +151,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 0  
-No open issues found.  
+### Total Open Issues: 1  
+- LidaTube - [Bug] Slug in `lidarr_address` field is ignored when requesting data (https://github.com/TheWicklowWolf/LidaTube/issues/73)  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 10:27:46 on 05-May-2026
+#### Last Updated: 11:54:23 on 05-May-2026

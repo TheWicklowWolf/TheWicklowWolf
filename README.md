@@ -153,6 +153,7 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 18:17:21 on 03-Jun-2026
+### Total Open PRs: 2  
+- Lidify - feat(api): add /healthz and /readyz endpoints (https://github.com/TheWicklowWolf/Lidify/pull/52)
+- Lidify - fix(config): handle invalid numeric env vars gracefully (https://github.com/TheWicklowWolf/Lidify/pull/51)  
+#### Last Updated: 21:42:30 on 03-Jun-2026

@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 16:13:59 on 03-Aug-2026
+### Total Open PRs: 1  
+- BookBounty - added retry/resume download on connection timeout (https://github.com/TheWicklowWolf/BookBounty/pull/59)  
+#### Last Updated: 18:43:02 on 03-Aug-2026

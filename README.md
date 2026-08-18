@@ -151,8 +151,8 @@
 ---
 
 # Summary  
-### Total Open Issues: 1  
-- Syncify - [Errno 36] Filename too long when a track has many artists (long collaboration credits) (https://github.com/TheWicklowWolf/Syncify/issues/14)  
+### Total Open Issues: 0  
+No open issues found.  
 ### Total Open PRs: 0  
 No open PRs found.  
-#### Last Updated: 18:23:36 on 18-Aug-2026
+#### Last Updated: 19:20:49 on 18-Aug-2026

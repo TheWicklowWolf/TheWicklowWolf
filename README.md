@@ -153,6 +153,6 @@
 # Summary  
 ### Total Open Issues: 0  
 No open issues found.  
-### Total Open PRs: 0  
-No open PRs found.  
-#### Last Updated: 22:40:08 on 10-Nov-2026
+### Total Open PRs: 1  
+- LidaTube - Fix memory leak when downloading tracks (https://github.com/TheWicklowWolf/LidaTube/pull/76)  
+#### Last Updated: 02:25:02 on 11-Nov-2026
